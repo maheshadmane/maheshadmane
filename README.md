@@ -7,8 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/mahesh_admane" target="blank"><img src="https://img.shields.io/twitter/follow/mahesh_admane?logo=twitter&style=for-the-badge" alt="mahesh_admane" /></a> </p>
 
-- 🌱 I’m currently learning **React**
-
 - 💬 Ask me about **C#, .NET, Java, Spring Boot**
 
 - 📫 How to reach me **madmane2000@gmail.com**
